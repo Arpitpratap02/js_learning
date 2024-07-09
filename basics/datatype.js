@@ -6,7 +6,8 @@ console.log(3
     +
      3) // code readability should be high
 
-console.log("Hitesh")
+console.log("Arpit")
+document.write("hello this is new file")
 
 
 let name = "hitesh"
