@@ -5,7 +5,6 @@ let id = 50;
 //  name = "this is arpit pratap";
  console.log(name.split());
 
-//  const name = "hitesh"
 const repoCount = 50
 
 // console.log(name + repoCount + " Value");
